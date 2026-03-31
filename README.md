@@ -149,4 +149,4 @@ pip install torch pandas numpy scikit-learn h5py boto3 matplotlib requests times
 
 ---
 
-- **Автор:** Никифорова Дарья
+**Автор:** Никифорова Дарья
